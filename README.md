@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blaqueknite
+- 👋 Hi, I’m Kelvin
 - 👀 I’m interested in Information Technology and Cybersecurity
 - 🌱 I’m currently learning Python and finishing Coursera's Cybersecurity Course
 - 💞️ I’m looking to collaborate on projects that will give me some hands-on experience
