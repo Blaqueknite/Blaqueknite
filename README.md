@@ -7,6 +7,9 @@
   
  📑 CERTIFICATIONS
 - Google Technical Support Fundamentals Certification https://bit.ly/46Mgjqo
+- FEMA National Incident Management Systems Certification (NIMS)
+- Network+ (Expected 2/24)
+  
 
  💻 CONNECT WITH ME
 - www.linkedin.com/in/kelvin-mcarthur-97507376
